@@ -1,3 +1,7 @@
 tesseract-ocr
 tesseract-ocr-kor
 poppler-utils
+ffmpeg
+libsm6
+libxext6
+libgl1
